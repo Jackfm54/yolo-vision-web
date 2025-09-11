@@ -1,0 +1,9 @@
+streamlit
+ultralytics>=8.3.0
+opencv-python
+pillow
+lapx
+imageio
+imageio-ffmpeg
+streamlit-webrtc
+av

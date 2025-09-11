@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+uploads/
+runs/
+*.log
+*.pt
+*.onnx
+*.engine
+*.tflite
+.DS_Store
+Thumbs.db
